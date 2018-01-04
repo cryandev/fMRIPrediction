@@ -3,7 +3,7 @@ Training model for discrete and continuous feature ratings prediction from fMRI 
 Requires Bioinformatics toolbox (k-nearest neighbors) and Statistics and Machine learning toolbox (SVM/Naive Bayes).
 Includes raw data sets and final predicted solutions in \data. 
 
-Main script: 
+Main script:   
 -ratingsMRIdata_trainModel: uses best results determined from experimental scratchpad.  
 Support:  
 -loadDisplayData: visualization and presentation of raw data and computed results.   
